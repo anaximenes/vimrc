@@ -10,7 +10,11 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 set background=dark
 
-colorscheme peaksea
+colorscheme solarized
+
+
+set listchars=nbsp:.,trail:.,tab:--
+set list
 
 " Set font according to system
 if has("mac") || has("macunix")
