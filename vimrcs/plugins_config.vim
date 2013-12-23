@@ -82,9 +82,9 @@ set grepprg=/bin/grep\ -nH
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Nerd Tree
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-map <leader>nn :NERDTreeToggle<cr>
-map <leader>nb :NERDTreeFromBookmark 
-map <leader>nf :NERDTreeFind<cr>
+map <leader>nn :NERDTreeTabsToggle<cr>
+map <leader>nb :NERDTreeTabsFromBookmark<cr>
+map <leader>nf :NERDTreeTabsFind<cr>
 
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
