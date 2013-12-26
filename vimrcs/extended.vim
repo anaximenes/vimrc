@@ -10,7 +10,7 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 set background=dark
 
-colorscheme solarized
+colorscheme peaksea 
 set listchars=nbsp:.,trail:.,tab:--
 set list
 
