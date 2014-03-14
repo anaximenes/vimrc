@@ -36,7 +36,6 @@ set guioptions-=R
 set guioptions-=l
 set guioptions-=L
 
-
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Fast editing and reloading of vimrc configs
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
