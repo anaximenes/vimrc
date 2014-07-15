@@ -1,7 +1,7 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Maintainer: 
 "       Amir Salihefendic
-"       http://amix.dk - amix@amix.dk
+
 "
 " Version: 
 "       5.0 - 29/05/12 15:43:36
@@ -128,6 +128,10 @@ set tm=500
 " Add a bit extra margin to the left
 set foldcolumn=1
 
+set foldmethod=syntax
+set foldnestmax=3
+set foldcolumn=4
+set foldlevel=100
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Colors and Fonts
