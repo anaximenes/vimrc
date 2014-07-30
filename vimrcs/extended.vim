@@ -10,7 +10,7 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 set background=dark
 
-colorscheme distinguished 
+colorscheme seoul256 
 set listchars=nbsp:.,trail:.,tab:--
 set list
 
