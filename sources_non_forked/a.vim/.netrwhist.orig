@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+<<<<<<< HEAD
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/place/home/tau0/arcadia/yweb/webscripts/video/fullness/v2.0'
+let g:netrw_dirhist_2='/place/home/tau0/arcadia/extsearch/video/indexer/indexurlseq/create'
+let g:netrw_dirhist_3='/place/home/tau0/.bin'
+let g:netrw_dirhist_4='/place/home/tau0/vel_fresh'
+=======
+let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_1='/Users/sukhanov/.vim_runtime'
+>>>>>>> 4c615bca18d9606608fb401752fda25ac85ddda9
